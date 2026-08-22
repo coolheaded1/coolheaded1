@@ -17,10 +17,10 @@ Currently building - **Cosine Wallet - (https://getcosine.app/)**. Available on 
 
 ## 📫 Let’s Connect
 
-| 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub
-| :----------: | :--------: | :--------: | :-------: | :------: |
-| https://jhoeonah.xyz/ | [in/jhoeonah](https://www.linkedin.com/in/jhoeonah/) | [@jhoeonah](https://x.com/jhoeonah) | [@coolheaded1](https://github.com/coolheaded1)
+🌐 Website: https://jhoeonah.xyz/
+💼 LinkedIn: https://www.linkedin.com/in/jhoeonah
+⚫️ X: https://x.com/jhoeonah/
 
 ---
 
-> *We don't wait for the future, we build it!*
+*We don't wait for the future, we build it!*
