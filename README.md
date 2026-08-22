@@ -2,6 +2,8 @@
 
 I am a builder obsessed with making crypto feel safe, intuitive, and easy for everyone to use. I love turning complex ideas into simple, reliable products, especially across mobile, fintech, and Web3. Always learning, experimenting, and building things that make technology feel a little more human.
 
+--
+
 ## 👨‍💻 Work In Progress
 Currently building **Cosine Wallet - https://getcosine.app/**
 
