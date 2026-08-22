@@ -6,7 +6,7 @@ I am a builder obsessed with making crypto feel safe, intuitive, and easy for ev
 ---
 
 ## 👨‍💻 Work In Progress
-Currently building **Cosine Wallet - https://getcosine.app/**. Available on App Store and Play Store!
+Currently building **Cosine Wallet - https://getcosine.app/**
 
 ## 🛠️ Tech Stack
 
@@ -17,9 +17,9 @@ Currently building **Cosine Wallet - https://getcosine.app/**. Available on App 
 
 ## 📫 Let’s Connect
 
-🌐 Website: https://jhoeonah.xyz/
-💼 LinkedIn: https://www.linkedin.com/in/jhoeonah
-⚫️ X: https://x.com/jhoeonah/
+- 🌐 Website: https://jhoeonah.xyz/
+- 💼 LinkedIn: https://www.linkedin.com/in/jhoeonah
+- ⚫️ X: https://x.com/jhoeonah/
 
 ---
 
