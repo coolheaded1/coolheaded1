@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I’m Joseph 👋
 
-<!--
-**coolheaded1/coolheaded1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a builder obsessed with making crypto feel safe, intuitive, and easy for everyone to use. I love turning complex ideas into simple, reliable products, especially across mobile, fintech, and Web3. Always learning, experimenting, and building things that make technology feel a little more human.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Work In Progress
+Currently building - **Cosine Wallet - (https://getcosine.app/)**. Available on App Store and Play Store!
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Vue  
+- **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
+- **Backend & Tools:** Firebase, Git  
+- **Testing & QA:** Jest
+
+## 📫 Let’s Connect
+
+| 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| https://jhoeonah.xyz/ | [in/jhoeonah](https://www.linkedin.com/in/jhoeonah/) | [@jhoeonah](https://x.com/jhoeonah) | [@coolheaded1](https://github.com/coolheaded1)
+
+---
+
+> *We don't wait for the future, we build it!*
