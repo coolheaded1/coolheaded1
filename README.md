@@ -17,7 +17,7 @@ Currently building **Cosine Wallet - https://getcosine.app**
 ## 📫 Let’s Connect
 
 - 🌐 Website: https://jhoeonah.xyz
-- 💼 LinkedIn: https://www.linkedin.com/in/jhoeonah
+- 💼 LinkedIn: https://linkedin.com/in/jhoeonah
 - ⚫️ X: https://x.com/jhoeonah
 
 ---
