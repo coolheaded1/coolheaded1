@@ -5,7 +5,7 @@ I am a builder obsessed with making crypto feel safe, intuitive, and easy for ev
 ---
 
 ## 👨‍💻 Work In Progress
-Currently building **Cosine Wallet - https://getcosine.app**
+Currently building **Cosine Wallet (https://getcosine.app)**
 
 ## 🛠️ Tech Stack
 
