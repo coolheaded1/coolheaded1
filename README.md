@@ -9,7 +9,7 @@ Currently building **Cosine Wallet (https://getcosine.app)**
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, React Native, Vue  
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, React Native, Vue, Nuxt  
 - **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS 
 - **Backend & Tools:** Firebase, Git  
 - **Testing & QA:** Jest
